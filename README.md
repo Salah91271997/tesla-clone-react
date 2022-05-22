@@ -1,4 +1,4 @@
--[deno](https://vermillion-parfait-ca3264.netlify.app/)
+-[demo](https://vermillion-parfait-ca3264.netlify.app/)
 
 # Getting Started with Create React App and Redux
 
